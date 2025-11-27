@@ -40,7 +40,7 @@ Follow these steps to install and configure Steam Headless:
 2. Find **Steam Headless** in the **Fun** category or use the search bar.
 3. Click **Get**, and then click **Install**.
 ![Install Steam Headless](../public/images/manual/use-cases/steam-install-steam-headless.png#bordered)
-4. A prompt will appear asking you to configure environment variables. This creates your login credentials for the Sunshine Web UI:
+4. A prompt will appear asking you to configure environment variables. This creates your login credentials for the Sunshine console:
     - `SUNSHINE_USER`: Set the username for Sunshine access.
     - `SUNSHINE_PASS`: Set the corresponding password.
 :::tip Remember your login credentials 
@@ -196,7 +196,7 @@ To fix it, simply restart Steam Headless in Olares and try pairing again:
 
 ### How do I change my Sunshine username or password?
 
-You can change your Sunshine credentials directly from the Sunshine web console.
+You can change your Sunshine credentials directly from the Sunshine console.
 
 1. Open Sunshine in your browser using your local address, for example: `http://139ebc4f0.<your Olares ID>.olares.local:47990`. 
 2. Log in with your current username and password.
