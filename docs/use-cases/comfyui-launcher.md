@@ -60,7 +60,7 @@ ComfyUI Launcher provides quick access to key directories and uses a shared `mod
 On the **Home** tab, the **File Type** section provides direct access to the main directories used by ComfyUI:
 
 | Entry | Location in Files | Description |
- -- | -- | -- |
+| -- | -- | -- |
 | **Root** | `/Files/External/olares/ai/`<br /> `comfyui/ComfyUI` | Root directory of the ComfyUI installation. |
 | **Plugin** | `/Files/External/olares/ai/`<br /> `comfyui/ComfyUI/custom_nodes` | Stores installed plugins (custom nodes and extensions).                    |
 | **Model**  | `/Files/External/olares/ai/model` | Centralized storage for AI models shared by ComfyUI and other AI apps.    |
